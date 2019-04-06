@@ -1,0 +1,304 @@
+D:\work\chatison\Chatison\Chatison\bin\roslyn\csc.exe
+D:\work\chatison\Chatison\Chatison\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\work\chatison\Chatison\Chatison\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\work\chatison\Chatison\Chatison\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\work\chatison\Chatison\Chatison\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\work\chatison\Chatison\Chatison\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\work\chatison\Chatison\Chatison\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\work\chatison\Chatison\Chatison\bin\roslyn\System.Collections.Immutable.dll
+D:\work\chatison\Chatison\Chatison\bin\roslyn\System.Reflection.Metadata.dll
+D:\work\chatison\Chatison\Chatison\bin\roslyn\vbc.exe
+D:\work\chatison\Chatison\Chatison\bin\roslyn\VBCSCompiler.exe
+D:\work\chatison\Chatison\Chatison\bin\roslyn\VBCSCompiler.exe.config
+D:\work\chatison\Chatison\Chatison\bin\Chatison.dll.config
+D:\work\chatison\Chatison\Chatison\bin\Chatison.dll
+D:\work\chatison\Chatison\Chatison\bin\Chatison.pdb
+D:\work\chatison\Chatison\Chatison\bin\Antlr3.Runtime.dll
+D:\work\chatison\Chatison\Chatison\bin\EntityFramework.dll
+D:\work\chatison\Chatison\Chatison\bin\EntityFramework.SqlServer.dll
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.AspNet.Identity.Core.dll
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.Owin.dll
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.Owin.Security.Cookies.dll
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.Owin.Security.dll
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.Owin.Security.Facebook.dll
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.Owin.Security.Google.dll
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.Owin.Security.OAuth.dll
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.Owin.Security.Twitter.dll
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.Web.Infrastructure.dll
+D:\work\chatison\Chatison\Chatison\bin\MySql.Data.dll
+D:\work\chatison\Chatison\Chatison\bin\MySql.Data.Entity.EF6.dll
+D:\work\chatison\Chatison\Chatison\bin\Newtonsoft.Json.dll
+D:\work\chatison\Chatison\Chatison\bin\Owin.dll
+D:\work\chatison\Chatison\Chatison\bin\System.Web.Helpers.dll
+D:\work\chatison\Chatison\Chatison\bin\System.Web.Mvc.dll
+D:\work\chatison\Chatison\Chatison\bin\System.Web.Optimization.dll
+D:\work\chatison\Chatison\Chatison\bin\System.Web.Razor.dll
+D:\work\chatison\Chatison\Chatison\bin\System.Web.WebPages.Deployment.dll
+D:\work\chatison\Chatison\Chatison\bin\System.Web.WebPages.dll
+D:\work\chatison\Chatison\Chatison\bin\System.Web.WebPages.Razor.dll
+D:\work\chatison\Chatison\Chatison\bin\WebGrease.dll
+D:\work\chatison\Chatison\Chatison\bin\EntityFramework.xml
+D:\work\chatison\Chatison\Chatison\bin\EntityFramework.SqlServer.xml
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\work\chatison\Chatison\Chatison\bin\MySql.Data.xml
+D:\work\chatison\Chatison\Chatison\bin\MySql.Data.Entity.EF6.xml
+D:\work\chatison\Chatison\Chatison\bin\System.Web.Helpers.xml
+D:\work\chatison\Chatison\Chatison\bin\System.Web.Mvc.xml
+D:\work\chatison\Chatison\Chatison\bin\System.Web.Optimization.xml
+D:\work\chatison\Chatison\Chatison\bin\System.Web.Razor.xml
+D:\work\chatison\Chatison\Chatison\bin\System.Web.WebPages.xml
+D:\work\chatison\Chatison\Chatison\bin\System.Web.WebPages.Deployment.xml
+D:\work\chatison\Chatison\Chatison\bin\System.Web.WebPages.Razor.xml
+D:\work\chatison\Chatison\Chatison\bin\Antlr3.Runtime.pdb
+D:\work\chatison\Chatison\Chatison\bin\Newtonsoft.Json.xml
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.AspNet.Identity.Core.xml
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.Owin.xml
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.Owin.Security.xml
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.Owin.Security.Facebook.xml
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.Owin.Security.Cookies.xml
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.Owin.Security.OAuth.xml
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.Owin.Security.Google.xml
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.Owin.Security.Twitter.xml
+D:\work\chatison\Chatison\Chatison\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\work\chatison\Chatison\Chatison\obj\Debug\Chatison.csprojResolveAssemblyReference.cache
+D:\work\chatison\Chatison\Chatison\obj\Debug\Chatison.dll
+D:\work\chatison\Chatison\Chatison\obj\Debug\Chatison.pdb
+D:\work\chatison\Chatison\bin\roslyn\csc.exe
+D:\work\chatison\Chatison\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\work\chatison\Chatison\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\work\chatison\Chatison\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\work\chatison\Chatison\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\work\chatison\Chatison\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\work\chatison\Chatison\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\work\chatison\Chatison\bin\roslyn\System.Collections.Immutable.dll
+D:\work\chatison\Chatison\bin\roslyn\System.Reflection.Metadata.dll
+D:\work\chatison\Chatison\bin\roslyn\vbc.exe
+D:\work\chatison\Chatison\bin\roslyn\VBCSCompiler.exe
+D:\work\chatison\Chatison\bin\roslyn\VBCSCompiler.exe.config
+D:\work\chatison\Chatison\bin\Chatison.dll.config
+D:\work\chatison\Chatison\bin\Chatison.dll
+D:\work\chatison\Chatison\bin\Chatison.pdb
+D:\work\chatison\Chatison\bin\Antlr3.Runtime.dll
+D:\work\chatison\Chatison\bin\DAL.dll
+D:\work\chatison\Chatison\bin\EntityFramework.dll
+D:\work\chatison\Chatison\bin\EntityFramework.SqlServer.dll
+D:\work\chatison\Chatison\bin\Microsoft.AspNet.Identity.Core.dll
+D:\work\chatison\Chatison\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\work\chatison\Chatison\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\work\chatison\Chatison\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\work\chatison\Chatison\bin\Microsoft.Owin.dll
+D:\work\chatison\Chatison\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\work\chatison\Chatison\bin\Microsoft.Owin.Security.Cookies.dll
+D:\work\chatison\Chatison\bin\Microsoft.Owin.Security.dll
+D:\work\chatison\Chatison\bin\Microsoft.Owin.Security.Facebook.dll
+D:\work\chatison\Chatison\bin\Microsoft.Owin.Security.Google.dll
+D:\work\chatison\Chatison\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\work\chatison\Chatison\bin\Microsoft.Owin.Security.OAuth.dll
+D:\work\chatison\Chatison\bin\Microsoft.Owin.Security.Twitter.dll
+D:\work\chatison\Chatison\bin\Microsoft.Web.Infrastructure.dll
+D:\work\chatison\Chatison\bin\MySql.Data.dll
+D:\work\chatison\Chatison\bin\MySql.Data.Entity.EF6.dll
+D:\work\chatison\Chatison\bin\Newtonsoft.Json.dll
+D:\work\chatison\Chatison\bin\Owin.dll
+D:\work\chatison\Chatison\bin\System.Web.Helpers.dll
+D:\work\chatison\Chatison\bin\System.Web.Mvc.dll
+D:\work\chatison\Chatison\bin\System.Web.Optimization.dll
+D:\work\chatison\Chatison\bin\System.Web.Razor.dll
+D:\work\chatison\Chatison\bin\System.Web.WebPages.Deployment.dll
+D:\work\chatison\Chatison\bin\System.Web.WebPages.dll
+D:\work\chatison\Chatison\bin\System.Web.WebPages.Razor.dll
+D:\work\chatison\Chatison\bin\WebGrease.dll
+D:\work\chatison\Chatison\bin\DAL.pdb
+D:\work\chatison\Chatison\bin\EntityFramework.xml
+D:\work\chatison\Chatison\bin\EntityFramework.SqlServer.xml
+D:\work\chatison\Chatison\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\work\chatison\Chatison\bin\MySql.Data.xml
+D:\work\chatison\Chatison\bin\MySql.Data.Entity.EF6.xml
+D:\work\chatison\Chatison\bin\System.Web.Helpers.xml
+D:\work\chatison\Chatison\bin\System.Web.Mvc.xml
+D:\work\chatison\Chatison\bin\System.Web.Optimization.xml
+D:\work\chatison\Chatison\bin\System.Web.Razor.xml
+D:\work\chatison\Chatison\bin\System.Web.WebPages.xml
+D:\work\chatison\Chatison\bin\System.Web.WebPages.Deployment.xml
+D:\work\chatison\Chatison\bin\System.Web.WebPages.Razor.xml
+D:\work\chatison\Chatison\bin\Antlr3.Runtime.pdb
+D:\work\chatison\Chatison\bin\Newtonsoft.Json.xml
+D:\work\chatison\Chatison\bin\Microsoft.AspNet.Identity.Core.xml
+D:\work\chatison\Chatison\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\work\chatison\Chatison\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\work\chatison\Chatison\bin\Microsoft.Owin.xml
+D:\work\chatison\Chatison\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\work\chatison\Chatison\bin\Microsoft.Owin.Security.xml
+D:\work\chatison\Chatison\bin\Microsoft.Owin.Security.Facebook.xml
+D:\work\chatison\Chatison\bin\Microsoft.Owin.Security.Cookies.xml
+D:\work\chatison\Chatison\bin\Microsoft.Owin.Security.OAuth.xml
+D:\work\chatison\Chatison\bin\Microsoft.Owin.Security.Google.xml
+D:\work\chatison\Chatison\bin\Microsoft.Owin.Security.Twitter.xml
+D:\work\chatison\Chatison\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\work\chatison\Chatison\obj\Debug\Chatison.csprojResolveAssemblyReference.cache
+D:\work\chatison\Chatison\obj\Debug\Chatison.dll
+D:\work\chatison\Chatison\obj\Debug\Chatison.pdb
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\roslyn\csc.exe
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\roslyn\System.Collections.Immutable.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\roslyn\System.Reflection.Metadata.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\roslyn\vbc.exe
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\roslyn\VBCSCompiler.exe
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\roslyn\VBCSCompiler.exe.config
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Chatison.dll.config
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Chatison.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Chatison.pdb
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Antlr3.Runtime.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\DAL.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\EntityFramework.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\EntityFramework.SqlServer.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.AspNet.Identity.Core.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.Owin.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.Owin.Security.Cookies.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.Owin.Security.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.Owin.Security.Facebook.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.Owin.Security.Google.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.Owin.Security.OAuth.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.Owin.Security.Twitter.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.Web.Infrastructure.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\MySql.Data.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\MySql.Data.Entity.EF6.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Newtonsoft.Json.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Owin.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\System.Web.Helpers.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\System.Web.Mvc.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\System.Web.Optimization.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\System.Web.Razor.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\System.Web.WebPages.Deployment.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\System.Web.WebPages.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\System.Web.WebPages.Razor.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\WebGrease.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\DAL.pdb
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\DAL.dll.config
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\EntityFramework.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\EntityFramework.SqlServer.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\MySql.Data.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\MySql.Data.Entity.EF6.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\System.Web.Helpers.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\System.Web.Mvc.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\System.Web.Optimization.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\System.Web.Razor.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\System.Web.WebPages.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\System.Web.WebPages.Deployment.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\System.Web.WebPages.Razor.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Antlr3.Runtime.pdb
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Newtonsoft.Json.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.AspNet.Identity.Core.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.Owin.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.Owin.Security.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.Owin.Security.Facebook.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.Owin.Security.Cookies.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.Owin.Security.OAuth.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.Owin.Security.Google.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.Owin.Security.Twitter.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\obj\Debug\Chatison.csprojAssemblyReference.cache
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\obj\Debug\Chatison.csproj.CoreCompileInputs.cache
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\obj\Debug\Chatison.csproj.CopyComplete
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\obj\Debug\Chatison.dll
+D:\project 2019-0401-0431\asp_project\chatison2\Chatison\obj\Debug\Chatison.pdb
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\roslyn\csc.exe
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\roslyn\vbc.exe
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\roslyn\VBCSCompiler.exe
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Chatison.dll.config
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Chatison.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Chatison.pdb
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Antlr3.Runtime.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\DAL.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\EntityFramework.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\EntityFramework.SqlServer.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.Owin.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.Owin.Security.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\MySql.Data.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\MySql.Data.Entity.EF6.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Newtonsoft.Json.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Owin.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\System.Web.Helpers.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\System.Web.Mvc.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\System.Web.Optimization.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\System.Web.Razor.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\System.Web.WebPages.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\System.Web.WebPages.Razor.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\WebGrease.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\DAL.pdb
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\DAL.dll.config
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\EntityFramework.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\EntityFramework.SqlServer.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\MySql.Data.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\MySql.Data.Entity.EF6.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\System.Web.Helpers.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\System.Web.Mvc.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\System.Web.Optimization.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\System.Web.Razor.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\System.Web.WebPages.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\System.Web.WebPages.Razor.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Antlr3.Runtime.pdb
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Newtonsoft.Json.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.Owin.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.Owin.Security.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\Client\chatison2\chatison2\Chatison\obj\Debug\Chatison.csprojAssemblyReference.cache
+E:\Projects\Client\chatison2\chatison2\Chatison\obj\Debug\Chatison.csproj.CoreCompileInputs.cache
+E:\Projects\Client\chatison2\chatison2\Chatison\obj\Debug\Chatison.csproj.CopyComplete
+E:\Projects\Client\chatison2\chatison2\Chatison\obj\Debug\Chatison.dll
+E:\Projects\Client\chatison2\chatison2\Chatison\obj\Debug\Chatison.pdb

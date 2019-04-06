@@ -1,0 +1,132 @@
+﻿.action-icon {
+    padding: 10px;
+    background-color: aliceblue;
+    border-radius: 2px;
+    font-size: 20px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.btn-custom-lg {
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 16px;
+}
+
+.kt-header {
+    background-color: #1e1e2d;
+}
+
+.kt-menu__item--active .kt-menu__link-text {
+    color: #ffffff !important;
+}
+
+.m-r-5 {
+    margin-right: 5px;
+}
+
+.f-s-21 {
+    font-size: 21px !important;
+}
+
+.f-s-25 {
+    font-size: 25px !important;
+}
+
+.fc-white {
+    color: #ffffff !important;
+}
+
+.kt-badge.kt-badge--unified-success {
+    color: #fff;
+    border-radius: 50% !important;
+    background: #ffb822;
+    height: 40px !important;
+    width: 40px !important;
+}
+
+.kt-header__topbar-icon .notification {
+    position: absolute;
+    top: 0px;
+    right: 5px;
+    text-align: center;
+    padding: 4px 5px;
+    line-height: .9;
+    background-color: #EE506C;
+    color: #fff;
+    font-size: 11px;
+    font-weight: bold;
+    border-radius: 50%;
+}
+
+.active-red {
+    background-color: #DB1430 !important;
+    margin-left: 2px !important;
+}
+
+    .active-red .kt-menu__link-icon {
+        color: #ffffff !important;
+    }
+
+.nav-active-arrow {
+    height: 40px;
+    background-color: #DB1430 !important;
+    color: #fff;
+    position: relative;
+    width: 200px;
+    text-align: center;
+    line-height: 40px;
+}
+
+    .nav-active-arrow:after {
+        content: "";
+        position: absolute;
+        height: 0;
+        width: 0;
+        left: 105%;
+        top: 0;
+        border: 22px dotted transparent;
+        border-right: 22px solid #fff;
+    }
+
+
+.btn-olive {
+    color: #ffffff;
+    background-color: #7E9807;
+    border-color: #6E8402;
+}
+
+    .btn-olive:hover,
+    .btn-olive:focus,
+    .btn-olive:active,
+    .btn-olive.active,
+    .open .dropdown-toggle.btn-olive {
+        color: #ffffff;
+        background-color: #6E8402;
+        border-color: #6E8402;
+    }
+
+    .btn-olive:active,
+    .btn-olive.active,
+    .open .dropdown-toggle.btn-olive {
+        background-image: none;
+    }
+
+    .btn-olive.disabled,
+    .btn-olive[disabled],
+    fieldset[disabled] .btn-olive,
+    .btn-olive.disabled:hover,
+    .btn-olive[disabled]:hover,
+    fieldset[disabled] .btn-olive:hover,
+    .btn-olive.disabled:focus,
+    .btn-olive[disabled]:focus,
+    fieldset[disabled] .btn-olive:focus,
+    .btn-olive.disabled:active,
+    .btn-olive[disabled]:active,
+    fieldset[disabled] .btn-olive:active,
+    .btn-olive.disabled.active,
+    .btn-olive[disabled].active,
+    fieldset[disabled] .btn-olive.active {
+        background-color: #6E8402;
+        border-color: #6E8402;
+    }

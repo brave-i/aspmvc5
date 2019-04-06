@@ -1,0 +1,97 @@
+D:\work\chatison\DAL\bin\Debug\DAL.dll.config
+D:\work\chatison\DAL\bin\Debug\DAL.dll
+D:\work\chatison\DAL\bin\Debug\DAL.pdb
+D:\work\chatison\DAL\bin\Debug\EntityFramework.dll
+D:\work\chatison\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\work\chatison\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\work\chatison\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\work\chatison\DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\work\chatison\DAL\bin\Debug\Microsoft.Owin.dll
+D:\work\chatison\DAL\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\work\chatison\DAL\bin\Debug\Microsoft.Owin.Security.dll
+D:\work\chatison\DAL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\work\chatison\DAL\bin\Debug\MySql.Data.dll
+D:\work\chatison\DAL\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\work\chatison\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\work\chatison\DAL\bin\Debug\Owin.dll
+D:\work\chatison\DAL\bin\Debug\EntityFramework.xml
+D:\work\chatison\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\work\chatison\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\work\chatison\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\work\chatison\DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\work\chatison\DAL\bin\Debug\Microsoft.Owin.xml
+D:\work\chatison\DAL\bin\Debug\Microsoft.Owin.Security.xml
+D:\work\chatison\DAL\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\work\chatison\DAL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\work\chatison\DAL\bin\Debug\MySql.Data.xml
+D:\work\chatison\DAL\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\work\chatison\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\work\chatison\DAL\obj\Debug\DAL.dll
+D:\work\chatison\DAL\obj\Debug\DAL.pdb
+D:\work\chatison\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\DAL.dll.config
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\DAL.dll
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\DAL.pdb
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\EntityFramework.dll
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\Microsoft.Owin.dll
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\Microsoft.Owin.Security.dll
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\MySql.Data.dll
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\Owin.dll
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\EntityFramework.xml
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\Microsoft.Owin.xml
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\Microsoft.Owin.Security.xml
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\MySql.Data.xml
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\obj\Debug\DAL.dll
+D:\project 2019-0401-0431\asp_project\chatison2\DAL\obj\Debug\DAL.pdb
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\DAL.dll.config
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\DAL.dll
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\DAL.pdb
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\EntityFramework.dll
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\Microsoft.Owin.dll
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\Microsoft.Owin.Security.dll
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\MySql.Data.dll
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\Owin.dll
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\EntityFramework.xml
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\Microsoft.Owin.xml
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\Microsoft.Owin.Security.xml
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\MySql.Data.xml
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\Projects\Client\chatison2\chatison2\DAL\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Client\chatison2\chatison2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\Projects\Client\chatison2\chatison2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Projects\Client\chatison2\chatison2\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Projects\Client\chatison2\chatison2\DAL\obj\Debug\DAL.dll
+E:\Projects\Client\chatison2\chatison2\DAL\obj\Debug\DAL.pdb
